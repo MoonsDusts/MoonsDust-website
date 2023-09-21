@@ -1,0 +1,27 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js add serve -g
+
+PATH: 
+  C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\MongoDB\Server\4.4\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Aptos\;C:\Program Files\LLVM\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\MongoDB\Server\4.4\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Aptos\;C:\Program Files\LLVM\bin;C:\Users\Administrator\.cargo\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Local\gitkraken\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\MongoDB\Server\4.4\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Aptos\;C:\Program Files\LLVM\bin;C:\Program Files\PostgreSQL\15\bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.17.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect ECONNREFUSED 104.16.31.34:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1495:16)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
