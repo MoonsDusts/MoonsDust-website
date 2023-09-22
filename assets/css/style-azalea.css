@@ -1918,14 +1918,7 @@ h6 {
     max-width: 500px;
   }
 }
-.rcps {
-  max-width: 400px;
-}
-@media (min-width: 768px) {
-  .rcps {
-    max-width: 500px;
-  }
-}
+
 .tab-nav li a {
   display: block;
   padding: 12px;
@@ -3640,7 +3633,7 @@ h6 {
   z-index: 2;
 }
 .section {
-  padding-top: 60px;
+  padding-top: 80px;
 }
 .section {
   padding-bottom: 60px;
@@ -4217,4 +4210,18 @@ h6 {
 
 .link-color:hover {
   color: #007bff;
+}
+
+.subreddit {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 280px;
+  margin-top: 16px;
+}
+
+@media (max-width: 576px) {
+  .subreddit {
+    width: 250px;
+  }
 }
