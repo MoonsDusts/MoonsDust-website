@@ -19591,3 +19591,7 @@ html[xmlns] .flexslider .slides {
     width: 22px;
   }
 }
+
+.main-part {
+  padding-top: 80px;
+}
