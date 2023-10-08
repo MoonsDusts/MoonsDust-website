@@ -2069,7 +2069,7 @@ h6 {
   padding: 10px 0 0;
 }
 .tab-pane-content {
-  min-height: 500px;
+  min-height: 690px;
 }
 .accordion-item {
   transition: all 0.4s;
@@ -4250,4 +4250,50 @@ h6 {
   .subreddit {
     width: 250px;
   }
+}
+
+.text-red {
+  color: #f42f54 !important;
+}
+
+.partner-list {
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  margin-top: 32px;
+}
+
+.partner-list > a {
+  margin-right: 10px;
+}
+
+.partner-list > a > img {
+  width: 80px;
+}
+
+@media (max-width: 576px) {
+  .partner-list {
+    font-size: 24px;
+  }
+  .partner-list > a > img {
+    width: 50px;
+  }
+}
+
+.announcement-popup {
+  aspect-ratio: 1.8;
+  background-size: cover !important;
+  padding: 0 !important;
+}
+
+.announcement-link {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.notify-text {
+  font-size: 11px !important;
 }
