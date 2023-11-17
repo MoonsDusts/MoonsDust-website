@@ -4260,15 +4260,11 @@ h6 {
   text-align: center;
   font-size: 40px;
   color: white;
-  margin-top: 32px;
-}
-
-.partner-list > a {
-  margin-right: 10px;
+  margin-top: 48px;
 }
 
 .partner-list > a > img {
-  width: 80px;
+  width: 150px;
 }
 
 @media (max-width: 576px) {
@@ -4276,7 +4272,7 @@ h6 {
     font-size: 24px;
   }
   .partner-list > a > img {
-    width: 50px;
+    width: 100px;
   }
 }
 
